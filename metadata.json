@@ -1,0 +1,8 @@
+{
+  "name": "AI Reel Transcript Pro",
+  "description": "A powerful, AI-driven application to extract transcripts from Facebook Reels, TikToks, and local videos using Gemini 3 Flash. Supports 100+ languages with high accuracy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
